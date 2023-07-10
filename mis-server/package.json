@@ -25,6 +25,9 @@
     "nodemailer": "^6.9.1",
     "python-shell": "^5.0.0",
     "validator": "^13.7.0",
-    "xss-clean": "^0.1.1"
+    "xss-clean": "^0.1.1",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.21.3",
+    "mysql2": "^2.3.3"
   }
 }
